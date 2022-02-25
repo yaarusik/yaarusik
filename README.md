@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ruslan Vildanov</h1>
 
 <!--
 **yaarusik/yaarusik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
