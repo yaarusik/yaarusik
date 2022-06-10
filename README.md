@@ -3,8 +3,9 @@
 - My pet projects:
   - [FarmFrenzy2](https://farm-frenzy.herokuapp.com/). Technologies: TypeScript, Node.js, Express, Canvas, SASS, MongoDB, HTML, Webpack.
   - [TaskManager](https://team-task-manager-app.netlify.app/). Technologies: React, TypeScript, Node.js, Redux(RTK), Material UI, styled-components, i18next, react-dnd, react-cookies.
-  - [ArtQuiz](https://team-task-manager-app.netlify.app/). Technologies: JavaScript, Sass, HTML, Webpack.
-  - [Museum](https://team-task-manager-app.netlify.app/). Technologies: JavaScript, Sass, HTML, Slick Slider, Swiper Slider.
+  - [ArtQuiz](https://yaarusik.github.io/RSShool-projects/art-quiz/). Technologies: JavaScript, Sass, HTML, Webpack.
+  - [Museum](https://yaarusik.github.io/museum/). Technologies: JavaScript, Sass, HTML, Slick Slider, Swiper Slider.
+  - [Momentum](https://yaarusik.github.io/museum/). Technologies: JavaScript, Sass, HTML, Webpack.
 
 
 <!--
