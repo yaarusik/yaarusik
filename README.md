@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=yaarusik&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
-<p align="center">English | <a href="./READMEru.md">Russian</a></p>
+<!-- <p align="center">English | <a href="./READMEru.md">Russian</a></p> -->
 
 - My pet projects:
   - [FarmFrenzy2](https://farm-frenzy.herokuapp.com/). Technologies: TypeScript, Node.js, Express, Canvas, SASS, MongoDB, HTML, Webpack.
@@ -23,17 +23,3 @@
   - [Momentum](https://yaarusik.github.io/museum/). Technologies: JavaScript, Sass, HTML, Webpack.
 
 
-<!--
-**yaarusik/yaarusik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
