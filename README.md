@@ -21,3 +21,4 @@
   - [Momentum](https://yaarusik.github.io/museum/). Technologies: JavaScript, Sass, HTML, Webpack.
 
 <!-- <p align="center">English | <a href="./READMEru.md">Russian</a></p> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaarusik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
