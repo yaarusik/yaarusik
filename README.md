@@ -18,7 +18,7 @@
   - [TaskManager](https://team-task-manager-app.netlify.app/). Technologies: React, TypeScript, Node.js, Redux(RTK), Material UI, styled-components, i18next, react-dnd, react-cookies.
   - [ArtQuiz](https://yaarusik.github.io/RSShool-projects/art-quiz/). Technologies: JavaScript, Sass, HTML, Webpack.
   - [Museum](https://yaarusik.github.io/museum/). Technologies: JavaScript, Sass, HTML, Slick Slider, Swiper Slider.
-  - [Momentum](https://yaarusik.github.io/museum/). Technologies: JavaScript, Sass, HTML, Webpack.
+  - [Momentum](https://yaarusik.github.io/RSShool-projects/momentum/). Technologies: JavaScript, Sass, HTML, Webpack.
 
 <!-- <p align="center">English | <a href="./READMEru.md">Russian</a></p> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaarusik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
